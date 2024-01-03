@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T09:08:36.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0Um2LSJRLuqIi7tcA2l4" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T09:20:15.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="n_YX_cFXR9D6R4t8tLab" version="22.1.16" type="github">
   <diagram name="第 1 页" id="TDeqdjOSITiVpRsq1ivu">
     <mxGraphModel dx="1248" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -133,20 +133,11 @@
         <mxCell id="d16QXKA28ZY-6sy2jyf4-263" value="执行&lt;br&gt;槽点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#CCE5FF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1230" y="860" width="40" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d16QXKA28ZY-6sy2jyf4-264" value="执行&lt;br&gt;网关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#CCE5FF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="940" width="40" height="40" as="geometry" />
+        <mxCell id="d16QXKA28ZY-6sy2jyf4-264" value="网关" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#CCE5FF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="940" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d16QXKA28ZY-6sy2jyf4-267" value="账户（现金流）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1270" y="740" width="360" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d16QXKA28ZY-6sy2jyf4-268" value="进件" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="520" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d16QXKA28ZY-6sy2jyf4-269" value="冻结" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="520" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d16QXKA28ZY-6sy2jyf4-270" value="记账" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="520" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d16QXKA28ZY-6sy2jyf4-271" value="账簿（信息流）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1630" y="740" width="270" height="20" as="geometry" />
@@ -399,6 +390,15 @@
         </mxCell>
         <mxCell id="d16QXKA28ZY-6sy2jyf4-337" value="对账单明细" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1865" y="860" width="35" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d16QXKA28ZY-6sy2jyf4-338" value="db" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="940" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d16QXKA28ZY-6sy2jyf4-339" value="redis" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="940" width="210" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d16QXKA28ZY-6sy2jyf4-340" value="es" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFFFFF;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1690" y="940" width="210" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

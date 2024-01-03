@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-03T15:10:02.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cFTIeHwj0NmEbhDEHbl0" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-03T15:48:51.960Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="H7T-eN1uCuYXFxlod2ez" version="22.1.16" type="github">
   <diagram name="第 1 页" id="TDeqdjOSITiVpRsq1ivu">
     <mxGraphModel dx="1135" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -419,7 +419,7 @@
           <mxGeometry x="1517.5" y="960" width="82.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j0lluqSmcOkYaARqusAz-7" value="开票" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1170" width="330" height="20" as="geometry" />
+          <mxGeometry x="1270" y="1170" width="82.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j0lluqSmcOkYaARqusAz-12" value="票据中心" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFFFFF;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1230" y="1030" width="680" height="20" as="geometry" />
@@ -560,7 +560,7 @@
           <mxGeometry x="1710" y="1150" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j0lluqSmcOkYaARqusAz-121" value="收票" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="1170" width="220" height="20" as="geometry" />
+          <mxGeometry x="1600" y="1170" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j0lluqSmcOkYaARqusAz-122" value="凭证开具" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
           <mxGeometry x="1820" y="1170" width="90" height="20" as="geometry" />
@@ -612,6 +612,18 @@
         </mxCell>
         <mxCell id="j0lluqSmcOkYaARqusAz-138" value="执行&lt;br&gt;场景" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#CCE5FF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="671.25" y="740" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j0lluqSmcOkYaARqusAz-139" value="红冲" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1352.5" y="1170" width="82.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0lluqSmcOkYaARqusAz-140" value="作废" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="1170" width="82.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0lluqSmcOkYaARqusAz-142" value="发票记录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1517.5" y="1170" width="82.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j0lluqSmcOkYaARqusAz-143" value="收票记录" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="1170" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

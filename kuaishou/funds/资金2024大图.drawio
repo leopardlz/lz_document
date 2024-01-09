@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T10:06:17.371Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LtHRlK7bEYmlvjj1vZev" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-09T06:15:03.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="gnlIkIHOgcD22nmjLsJ_" version="22.1.16" type="github" pages="4">
   <diagram name="第 1 页" id="TDeqdjOSITiVpRsq1ivu">
     <mxGraphModel dx="1238" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -5029,7 +5029,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YeRb3hJN_oreWBj7skq9" name="第 3 页">
-    <mxGraphModel dx="1300" dy="1927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="2101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6647,7 +6647,7 @@
         <mxCell id="WvKc9oji3-o0q6p6eKYf-529" value="支" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1130" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WvKc9oji3-o0q6p6eKYf-530" value="支付中心（业务域）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFCC99;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="WvKc9oji3-o0q6p6eKYf-530" value="资金交易中心（业务域）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFCC99;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="670" y="1030" width="490" height="20" as="geometry" />
         </mxCell>
         <mxCell id="WvKc9oji3-o0q6p6eKYf-531" value="指令" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#999999;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
@@ -7260,13 +7260,14 @@
             <mxPoint x="174.5" y="31" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WvKc9oji3-o0q6p6eKYf-720" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WvKc9oji3-o0q6p6eKYf-705" source="WvKc9oji3-o0q6p6eKYf-712" target="WvKc9oji3-o0q6p6eKYf-721">
+        <mxCell id="WvKc9oji3-o0q6p6eKYf-720" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#999999;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WvKc9oji3-o0q6p6eKYf-705" source="WvKc9oji3-o0q6p6eKYf-712">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="411.25" y="33" />
               <mxPoint x="411.25" y="59" />
               <mxPoint x="379.25" y="59" />
             </Array>
+            <mxPoint x="379.5" y="59" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WvKc9oji3-o0q6p6eKYf-721" value="还款" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontSize=9;shadow=1;fillColor=#FF9933;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="WvKc9oji3-o0q6p6eKYf-705">
@@ -8067,7 +8068,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KiC-KxxBt1F79PUHPJ3a" name="第 4 页">
-    <mxGraphModel dx="1625" dy="2117" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="2159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
